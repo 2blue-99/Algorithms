@@ -13,3 +13,4 @@ if hap >= 60:
         print(hour, minute)
 else:
     print(hour, hap)
+ 
