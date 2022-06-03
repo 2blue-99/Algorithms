@@ -1,0 +1,5 @@
+num = int(input(""))
+dataList = list(map(int, input("").split()))
+dataList = sorted(dataList)
+print(dataList)
+print(dataList[-1]*dataList[0])
